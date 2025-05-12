@@ -8,7 +8,7 @@ Analyzed Kwara State election data using Python and Tableau to detect voting ano
    - [Methodology](https://github.com/Humairah9/Geospatial-Outlier-Detection-for-Electoral-Integrity/blob/main/README.md#methodology)
    - [Findings and key Anomalies](https://github.com/Humairah9/Geospatial-Outlier-Detection-for-Electoral-Integrity/blob/main/README.md#findings-and-key-anomalies)
    - [Visualizations](https://github.com/Humairah9/Geospatial-Outlier-Detection-for-Electoral-Integrity/blob/main/README.md#visualizations)
-   - 
+   - [Conclusions](https://github.com/Humairah9/Geospatial-Outlier-Detection-for-Electoral-Integrity/blob/main/README.md#conclusion)
    
 
 
